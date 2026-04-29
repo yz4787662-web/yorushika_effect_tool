@@ -1,6 +1,6 @@
 给你的图片加上色散和小人贴纸，让它看起来像itte或hitchcock的mv
 
-在右边的release直接下载exe文件
+在右边的releases直接下载exe文件
 
 c++的文件是顺手传的，其实没用（）
 
